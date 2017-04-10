@@ -1,4 +1,3 @@
-# Salts_of_Time
-my pygame exercise
-Many thanks to Mr.Crossin
-Many thanks to Mr.Zhouyiwei and fans
+* my pygame exercise
+* many thanks to Mr.Crossin
+* many thanks to [Mr.Zhou Yiwei](http://weibo.com/u/5241260567) and fans
